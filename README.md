@@ -40,5 +40,5 @@ A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy bui
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-b2206436a)
-- 🌐 [Portfolio](https://chatwithme-two.vercel.app/)
+- 🌐 [Portfolio](https://ankitk-portfolio.vercel.app/)
 - 📬 vickyak1339@gmail.com
