@@ -32,7 +32,7 @@ A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy bui
 
 
 ### 🏆 Competitive Programming
-- 🔹 **CodeChef**: 2⭐ Max Rating 1627 | [Profile](https://www.codechef.com/users/ankitk7011)
+- 🔹 **CodeChef**: 3⭐ Max Rating 1627 | [Profile](https://www.codechef.com/users/ankitk7011)
 - 🔸 **Codeforces**: Max Rating 1175 | [Profile](https://codeforces.com/profile/ankitk1107)
 - 🟡 **LeetCode**: Max Rating 1665 | [Profile](https://leetcode.com/u/ankitk7011/)
 
