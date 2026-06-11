@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ankit03ak&color=blue)
 
-I'm a **Pre-final Year B.Tech. student at IIIT Ranchi**, specializing in **Computer Science and Engineering**.  
+I'm a **Final Year B.Tech. student at IIIT Ranchi**, specializing in **Computer Science and Engineering**.  
 A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy building scalable web applications and solving algorithmic challenges.
 
 <hr style="height:3px; background-color:#333; border:none;">
@@ -19,7 +19,7 @@ A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy bui
 
 
 ### 🔧 Technologies & Tools
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,git,cpp,js,python,postman,vscode)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,git,cpp,js,python,postman,vscode,php)
 
 <hr style="height:3px; background-color:#333; border:none;">
 
