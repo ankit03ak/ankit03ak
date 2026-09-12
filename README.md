@@ -82,18 +82,6 @@ A full-stack LMS supporting both instructors and students.
 
 ---
 
-### 🤖 CodePilotX — AI Code Generation Platform
-
-**Next.js · Node.js · Express · PostgreSQL · Google Gemini API**
-
-An AI-powered developer tool that generates code from natural-language prompts.
-
-- Supports multiple programming languages including **C++, JavaScript, Python and TypeScript**.
-- Built API endpoints for code generation and prompt history.
-- Added paginated generation history.
-- Designed a responsive interface for prompt input, language selection, and generated code.
-
----
 
 ## 🏆 Competitive Programming
 
@@ -121,6 +109,7 @@ An AI-powered developer tool that generates code from natural-language prompts.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-b2206436a)
 - 🌐 [Portfolio](https://ankitk-portfolio.vercel.app/)
 - 💻 [GitHub](https://github.com/ankit03ak)
+- 📧 **ankitkumar.ug791@gmail.com**
 - 📧 **vickyak1339@gmail.com**
 
 ---
