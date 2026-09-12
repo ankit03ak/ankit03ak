@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ankit
+[### Hi there! 👋 I'm Ankit
 
 I'm a **Final Year B.Tech. student at IIIT Ranchi**, specializing in **Computer Science and Engineering**.  
 A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy building scalable web applications and solving algorithmic challenges.
@@ -35,3 +35,4 @@ A passionate **MERN Stack Developer** and **DSA enthusiast in C++**, I enjoy bui
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-b2206436a)
 - 🌐 [Portfolio](https://ankitk-portfolio.vercel.app/)
 - 📬 ankitkumar.ug791@gmail.com
+](https://github.com/ankit03ak)
