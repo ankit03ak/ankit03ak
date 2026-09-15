@@ -99,11 +99,11 @@ A full-stack LMS supporting both instructors and students.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-b2206436a)
-- 🌐 [Portfolio](https://ankitk-portfolio.vercel.app/)
-- 💻 [GitHub](https://github.com/ankit03ak)
-- 📧 **ankitkumar.ug791@gmail.com**
-- 📧 **vickyak1339@gmail.com**
+- 💼 <a href="https://www.linkedin.com/in/ankit-kumar-b2206436a" target="_blank">LinkedIn</a>
+- 🌐 <a href="https://ankitk-portfolio.vercel.app/" target="_blank">Portfolio</a>
+- 💻 <a href="https://github.com/ankit03ak" target="_blank">GitHub</a>
+- 📧 <a href="mailto:ankitkumar.ug791@gmail.com">ankitkumar.ug791@gmail.com</a>
+- 📧 <a href="mailto:vickyak1339@gmail.com">vickyak1339@gmail.com</a>
 
 ---
 
