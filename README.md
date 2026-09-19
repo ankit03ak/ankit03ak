@@ -85,10 +85,10 @@ A full-stack LMS supporting both instructors and students.
 
 ## 🏆 Competitive Programming
 
-- 🔹 **CodeChef:** 3⭐ | Peak Rating **1659**  
+- 🔹 **CodeChef:** 3⭐ | Peak Rating **1661**  
   [Profile](https://www.codechef.com/users/ankitk7011)
 
-- 🔸 **Codeforces:** Peak Rating **1175**  
+- 🔸 **Codeforces:** Peak Rating **1180**  
   [Profile](https://codeforces.com/profile/ankitk1107)
 
 - 🟡 **LeetCode:** **500+ Problems Solved** | Peak Rating **1665**  
